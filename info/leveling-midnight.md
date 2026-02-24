@@ -26,7 +26,7 @@ image: /assets/img/lv100.png
 
 При подготовке данного гайда использовался личный опыт после прокачки трех персонажей на бете Midnight и [гайд от Larias](https://docs.google.com/document/d/e/2PACX-1vTGkZ2Cjr0jlv90XqW9vy9VXsVucd-yMCgHdyCvX_kQfOrexNDAC7Lf3LifuhqxrcWqJ0W3zIhvK3ii/pub).
 
-Также рекомендую к ознакомлению [гайд от Медифк](https://docs.google.com/spreadsheets/d/1fIsChdAbaqHrokmQLatdLOeFyaTsTqgUAWNrizVv0hE/edit?gid=0#gid=0).
+Также рекомендую к ознакомлению [гайд от Медифк](https://docs.google.com/spreadsheets/d/1fIsChdAbaqHrokmQLatdLOeFyaTsTqgUAWNrizVv0hE/edit?gid=0#gid=0) на старт Midnight и [большое руководство про прокачке](https://docs.google.com/spreadsheets/d/1StJ9AoWxid3E8qp5tbvCaz_Jqzf9BF7sWrl74jICwHI/edit?gid=0#gid=0) на английском языке.
 
 # Основные изменения в Midnight
 
@@ -91,6 +91,7 @@ image: /assets/img/lv100.png
 4. Приготовьте дешевые камни и зачарования из The War Within для основных слотов экипировки – за счет скалирования они достаточно сильны и не сильно отстают от начального крафта расходников в Midnight.
 5. Персонаж, одетый в **170** уровень предметов будет менять экипировку примерно на **88+** уровне. Чем выше уровень предметов, тем проще будет качаться первые несколько уровней. К **88** уровню прокачка ощутимо замедляется.
 5. Аддоны на прокачку не особо необходимы, квесты достаточно логичные и легкие, но можно поставить и настроить [Azeroth Pilot Reloaded](https://www.curseforge.com/wow/addons/azeroth-pilot-reloaded), либо [RestedXP](https://www.curseforge.com/wow/addons/restedxp-guide), но нужен платный модуль. Также могу рекомендовать поставить аддон на удобную полоску опыта: [Easy Experience Bar](https://www.curseforge.com/wow/addons/easy-experience-bar).
+6. Большое руководство про прокачке на английском языке можно найти [по этой ссылке](https://docs.google.com/spreadsheets/d/1StJ9AoWxid3E8qp5tbvCaz_Jqzf9BF7sWrl74jICwHI/edit?gid=0#gid=0).
 
 Ранний доступ начнется **27 февраля** в **02:00** по московскому времени, в ночь с четверга на пятницу, для обладателей эпического издания игры. Для других изданий старт начнется **3 марта** в **02:00** по московскому времени. Ярмарка Новолуния начинается **1 марта**, в ночь с субботы на воскресенье, в **02:00** по московскому времени.
 {: class="bordered"}
