@@ -111,13 +111,24 @@ function on_build_button_click(button, talent_list) {
 }
 
 
-$('button#build_ele_raid').on('click', function() {
-    on_build_button_click(this, ["vb"]);
+$('button#build_ele_raid_storm').on('click', function() {
+    on_build_button_click(this, ["tempest", "eb", "mote"]);
     return false;
 });
 
+$('button#build_ele_raid_fs').on('click', function() {
+    on_build_button_click(this, ["mote", "vb", "pf"]);
+    return false;
+});
+
+
 $('button#build_ele_mplus').on('click', function() {
-    on_build_button_click(this, ["tempest", "vb"]);
+    on_build_button_click(this, ["tempest", "eb", "vb"]);
+    return false;
+});
+
+$('button#build_ele_delve').on('click', function() {
+    on_build_button_click(this, ["vb", "pf"]);
     return false;
 });
 
