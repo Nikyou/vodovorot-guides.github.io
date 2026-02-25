@@ -188,8 +188,6 @@ custom-javascript-list:
 5. [Молния](https://ru.wowhead.com/spell=188196).
 7. Продолжайте согласно приоритету заклинаний, указанному ниже.
 
-cleave
-
 <p></p>
 
 
@@ -514,7 +512,12 @@ cleave
 * **Ботинки**: [Рысья стремительность](https://www.wowhead.com/ru/item=243953)
 * **Кольца**: [Искусность Зул'джина](https://www.wowhead.com/ru/item=243959)
 * **Эпический самоцвет**: [Могучий алмаз Вечной Песни](https://www.wowhead.com/ru/item=240967)
-* **Остальные самоцветы**: [Безупречный гранат искусности](https://www.wowhead.com/ru/item=240908) / [Безупречный хризолит искусности](https://www.wowhead.com/ru/item=240892) / [Безупречный аметист смерти](https://www.wowhead.com/ru/item=240898) / [Безупречный лазурит искусности](https://www.wowhead.com/ru/item=240918). [Симьтесь](https://stormkeeper.ru/info/sim.html) персонально для точных данных.
+* **Остальные самоцветы**:
+  * [Безупречный гранат искусности](https://www.wowhead.com/ru/item=240908)
+  * [Безупречный хризолит искусности](https://www.wowhead.com/ru/item=240892)
+  * [Безупречный аметист смерти](https://www.wowhead.com/ru/item=240898)
+  * [Безупречный лазурит искусности](https://www.wowhead.com/ru/item=240918). 
+  * Мы хотим использовать разные самоцветы для активации эффекта эпического самоцвета, поэтому [симьтесь](https://stormkeeper.ru/info/sim.html) персонально для точных данных.
 
 
 <hr style="height:1px;background-color:#bbb">
