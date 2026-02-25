@@ -85,7 +85,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMmZmZZbbgxMDAAAAAsYGDbwCMjGasBAzyMzMGbLmwMzyYZmZmxwilZsYmZMzCAwwAzMwwwA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMmZmZZbbgxMDAAAAAsYGDbwCMjGasBAzyMzMGbLmwMzyYZmZmxwilZsYmZMzCAwwAzMwwwA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -96,7 +96,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAmZZZmxMzMbbbjxMmZAAAAAbmZDGwAmNmQmFAYWmZmxYbxEmZWGLzMzMGWsMjFMzMzCAwwAYmxwwA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAmZZbmxMzMbbbjxMmZAAAAAbmZDGwAmNmQmFAYWmZmxYbxEmZWGLzMzMGWsMjFMzMzCAwwAYmxwwA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -115,7 +115,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzMzML2GMjZAAAAAALmxwGsAzohGbAwsMzMjx2ipNmZMWmZmZMsYxYxMzYmFAgZMwMDMMMA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzML2GMjZAAAAAALmxwGsAzohGbAwsMzMjx2ipNmZMWmZmZMsYxYxMzYmFAgZMwMDMMMA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -420,6 +420,7 @@ custom-javascript-list:
 * Перегрузка [Выброса лавы](https://ru.wowhead.com/spell=51505) не дает бафф от таланта {{ site.data.spells.mote }}, но перегрузка [Удара духов стихий](https://ru.wowhead.com/spell=117014) гарантированно дает второй бафф на статы, отличный от первого.
 * Все таланты, увеличивающие урон основного заклинания, влияют также и на его прок искусности.
 * Искусность не влияет на тотемы и лечащие заклинания.
+* На получение **1%** Искусности нужно **24.5** единиц рейтинга Скорости.
 * После набора **1380** рейтинга скорость роста этой характеристики снижается на **10%**. То есть для набора дополнительного **1%** Искусности потребуется не **24.5** единиц рейтинга, а **27**.
 
 </details>
@@ -451,8 +452,8 @@ custom-javascript-list:
 
 Сетовый комлпет Шамана Стихии, [Оболочка изначального ядра](https://www.wowhead.com/ru/item-set=1988), дает следующие бонусы:
 
-* **2 части**: [Хранитель бурь](https://www.wowhead.com/ru/spell=191634) повышает Скорость на **15%** на **10** секунд
-* **4 части**: [Хранителя бурь](https://www.wowhead.com/ru/spell=191634) дает еще один заряд, а также увеличивает урон от [Молнии](https://ru.wowhead.com/spell=188196) и [Цепной молнии](https://www.wowhead.com/ru/spell=188443) на **25%**.
+* **2 части**: [Хранитель бурь](https://www.wowhead.com/ru/spell=191634) повышает Скорость на **15%** на **10** секунд.
+* **4 части**: [Хранитель бурь](https://www.wowhead.com/ru/spell=191634) дает еще один заряд, а также увеличивает урон от [Молнии](https://ru.wowhead.com/spell=188196) и [Цепной молнии](https://www.wowhead.com/ru/spell=188443) на **25%**.
 
 Элем Шаман носит сетовый шлем, наплечники, нагрудник и перчатки, а штаны стоит заменить на предмет с более подходящими характеристиками.
 {: class="bordered"}
@@ -461,7 +462,7 @@ custom-javascript-list:
 
 * [Око полуночи](https://www.wowhead.com/ru/item=249920) – данное кольцо дает на одно гнездо для самоцвета больше, чем другие кольца и является отличным вариантом для Элема. Проковый барьер является приятным бонусом, но не более того.
 * [Вечная цепь песни Пустоты](https://www.wowhead.com/ru/item=249368) – мы не наносим урон от темной магии, поэтому прок от этого кольца будет для нас бесполезен. 
-* [Амулет гимна пустоты](https://www.wowhead.com/ru/item=250247) – не является редким предметом, но имеет два гнезда для самоцвета и отличне характеристики для Элем Шамана.
+* [Амулет гимна пустоты](https://www.wowhead.com/ru/item=250247) – не является редким предметом, но имеет два гнезда для самоцвета и отличные характеристики для Элем Шамана.
 
 ## Аксессуары
 

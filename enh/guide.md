@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2026-02-11
+last_update: 2026-02-25
 title: Гайд на Энх Шамана
 wow: 12.0.1
 toc: true
@@ -60,21 +60,36 @@ custom-javascript-list:
 ## Общая информация
 
 
-В препатче Midnight недоступна прокачка до девяностого уровня, нет высших талантов – [Необузданная буря](https://www.wowhead.com/beta/spell=1262713) и не хватает трех очков талантов в героической ветке. Все это ощутимо усилит нашу специализацию в будущем.
+В начале первого сезона Midnight, бою против одной цели, в Мифик+ и в вылазках рекомендуется использовать **Тотемиста**. 
 
-В бою против одной цели, в Мифик+ и в вылазках рекомендуется использовать **Тотемиста**. 
-
-**Вестник шторма** на момент препатча проигрывает во всех типах контента.
+**Вестник шторма** на данный момент проигрывает во всех типах контента.
 
 Текущие актуальные билды на каждого босса в рейде можно найти на [Warcraftlogs](https://www.warcraftlogs.com/), а для Мифик+ – на [Archon.gg](https://www.archon.gg/wow/builds/enhancement/shaman/mythic-plus/overview/10/all-dungeons/this-week).
 
 
+## Таланты для Вылазок и прокачки
+
+Билд **Тотемиста** для вылазок и прокачки:
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzMzMzMzMzMzYGzAAAAAAAAAALwGMjFN2GAzEsBwsMjZMWWmBmZMWMzMzDYswMAAGYMmZaMzAAjB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+
+<p></p>
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+
+
 ## Таланты для Рейда
 
-На текущий момент, **Тотемист** показывает себя сильнее и в бою против одной цели, и на АоЕ. Основной билда является бафф [Горячей руки](https://www.wowhead.com/ru/spell=201900/), усиливающий урон [Вскипания лавы](https://www.wowhead.com/ru/spell=60103) и сокращающий его кулдаун, который так же можно продлить с помощью таланта [Энергия тотемов](https://www.wowhead.com/ru/spell=1260644/). Бурстом в этом билде является сочетание [Пульсирующего тотема](https://www.wowhead.com/ru/spell=444995) и [Ветров рока](https://www.wowhead.com/ru/spell=384352), которые имеют время восстановления **1** минуту и позволяют усиливать свой урон в нужные моменты боя.
+На текущий момент, **Тотемист** показывает себя сильнее и в бою против одной цели, и на кливе.
 
+Основной билда является бафф [Горячей руки](https://www.wowhead.com/ru/spell=201900/), усиливающий урон [Вскипания лавы](https://www.wowhead.com/ru/spell=60103) и сокращающий его кулдаун, который так же можно продлить с помощью таланта [Энергия тотемов](https://www.wowhead.com/ru/spell=1260644/). 
 
-**Вестник шторма** отстает не так сильно, но у него не самый удобный паттерн урона и слабее клив урон, но зато он имеет более сильный бурст за счет [Перерождения](https://www.wowhead.com/ru/spell=114051/).
+Бурстом в этом билде является сочетание [Пульсирующего тотема](https://www.wowhead.com/ru/spell=444995) и [Ветров рока](https://www.wowhead.com/ru/spell=384352), которые имеют время восстановления **1** минуту и позволяют усиливать свой урон в нужные моменты боя.
+
+**Вестник шторма** проигрывает в плане урона, к тому же у него гораздо более рандомный паттерн урона.
 
 
 <p></p>
@@ -85,34 +100,28 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzMzMzMzMzMzMzYGAAAAAAAAAAAMW0YbAMTwGAWmxMGLLzAzMbsMzMzwwYGAADwYGxMDAMA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzMzMzMzMzMzMzYGAAAAAAAAAYB2gZsox2AYmgNAmlZMzMWWmBmZ2YZmZmhhxMAAGgxMTMzAAjB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
-
-<p></p>
 <hr style="height:1px;background-color:#bbb">
 <p></p>
+
 
 Альтернативный рейдовый билд **Вестника шторма**:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzYmZmZmZmhZGDAAAAAAAAgNAMjhNCYGQDWAYWmxMzYZZGYmZjlZmZGGYGAgZYMzwIwMDgBA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzYmZmZmZmhZGDAAAAAAAAgNAbmxwGZBmhhGsAwsMjZmxyyMwMzGLzMzMMMmBAYGGzMmZCMzAYMA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
-
-<p></p>
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-
-
-
 ## Таланты для Мифик+
 
-В препатче Midnight обе героические ветки хорошо себя показывают в Мифик+, но **Тотемист** обходит **Вестника шторма**.
+На старте Midnight обе героические ветки хорошо себя показывают в Мифик+, но **Тотемист** обходит **Вестника шторма**.
 
 **Тотемист** имеет бурст раз в минуту за счет [Пульсирующего тотема](https://www.wowhead.com/ru/spell=444995) и [Ветров рока](https://www.wowhead.com/ru/spell=384352), а талант [Энергия тотемов](https://www.wowhead.com/ru/spell=1260644/) позволяет активнее поддерживать бафф [Горячей руки](https://www.wowhead.com/ru/spell=201900/) на АоЕ, чтобы реализовывать [Разветвленный поток](https://www.wowhead.com/ru/spell=445035). 
 
@@ -124,7 +133,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzMzMzMzMzMzYGzAAAAAAAAAALAYG0YbAMC2AYWmxMGLLGYmZjlZMzMwYGAAgxYmJmZAGMA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzMzMzMzMzMzYGzAAAAAAAAAALwGMjFN2GAzEsBwsMjZMWWmBmZ2YZmZmZMMmBAAYMmRMzAMYMA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -137,7 +146,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzYMzMzMzMMzMDAAAAAAAAgNAMjhNCYGQDWAYWmxMGLLzAzMYZmZmZMwMAAGGzMMCMzgBDA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzYMzMzMzMzMzMzAAAAAAAAAsBYzMG2ILwMM0gFAmlZMjxyyMwMzGLzMzMjhxMAAGGzgZCMzgBjLA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -149,23 +158,6 @@ custom-javascript-list:
 
 
 
-
-## Таланты для Вылазок
-
-
-
-Билд **Тотемиста** для вылазок:
-
-<p></p>
-
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzMjZMzMzMzMzYGAAAAAAAAAYBAzgGbDgRwGAzyMmxYZxAzMbsMjZmBGzAAAjZYmJmZAGMA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
-
-<p></p>
-
-
-<p></p>
-<hr style="height:1px;background-color:#bbb">
-<p></p>
 
 # Приоритет способностей
 
@@ -258,7 +250,6 @@ custom-javascript-list:
 7. Продолжайте согласно приоритету способностей, указанному ниже.
 
 
-
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
@@ -291,7 +282,7 @@ custom-javascript-list:
 1. [Вскипание лавы](https://www.wowhead.com/ru/spell=60103).
 4. {:.totem-apl .dw-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364) во время активных [Ветров рока](https://ru.wowhead.com/spell=384352).
 5. {:.totem-apl}[Молния](https://www.wowhead.com/ru/spell=188196/), если выполняется **любое** из условий:
-  * Есть **9+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+  * Есть **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
   * Есть **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) и [Молния](https://www.wowhead.com/ru/spell=188196/) продлит бафф [Горячей руки](https://www.wowhead.com/ru/spell=201900) на дополнительный каст [Вскипания лавы](https://www.wowhead.com/ru/spell=60103).
 6. {:.totem-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
 2. [Гальваническое пламя](https://www.wowhead.com/ru/spell=470057)
@@ -382,24 +373,6 @@ custom-javascript-list:
 
 * **Сочетайте бурсты друг с другом!** Тотемист использует [Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995) и [Ветра рока](https://ru.wowhead.com/spell=384352) каждую минуту, а Вестник шторма активирует [Перерождение](https://ru.wowhead.com/spell=114051) каждые две минуты.
 
-## Вестник шторма
-
-* Вестник шторма в бою полагается на трату стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880), чтобы получить прок [Бури](https://www.wowhead.com/ru/spell=454009/).
-
-* Используйте [Бурю](https://www.wowhead.com/ru/spell=454009/) по приоритетам, желательно на **10+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880), иначе кастуйте [Молнию](https://www.wowhead.com/ru/spell=188196/) на **9+** стаках в бою против одной цели или [Цепную молнию](https://www.wowhead.com/ru/spell=188443) на **7+** стаках на АоЕ.
-
-* При активации [Перерождения](https://ru.wowhead.com/spell=114051), **каждое** ГКД нужно тратить на [Удар ветра](https://www.wowhead.com/ru/spell=115356), вне зависимости от других проков. Его кулдаун будет постоянно сбрасываться за счет талантов [Стихийный ритм](https://www.wowhead.com/ru/spell=1250364) и [Воззвание к Ториму](https://www.wowhead.com/ru/spell=384444).
-
-* В момент прока [Ветров рока](https://ru.wowhead.com/spell=384352) старайтесь тратить каждый ГКД либо на [Удар бури](https://www.wowhead.com/ru/spell=17364), либо на [Сокрушающую молнию](https://www.wowhead.com/ru/spell=187874). Имейте в виду, что в Midnight [Ветра рока](https://ru.wowhead.com/spell=384352) больше не имеют ГКД.
-
-* Когда у вас нет более приоритетных заклинаний, порядок филлеров в бою против одной цели выглядит следующим образом:
-  * [Удар бури](https://www.wowhead.com/ru/spell=17364).
-  * [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
-  * [Вскипание лавы](https://www.wowhead.com/ru/spell=60103/).
-  * [Гальваническое пламя](https://www.wowhead.com/ru/spell=470057).
-
-* Со взятым талантом [Раскол](https://www.wowhead.com/ru/spell=197214/), старайтесь применять его каждые **30** секунд для нанесения урона и активации баффа от таланта [Бурные стихии](https://www.wowhead.com/ru/spell=382042/).
-
 
 ## Тотемист
 
@@ -421,9 +394,24 @@ custom-javascript-list:
   * [Гальваническое пламя](https://www.wowhead.com/ru/spell=470057).
 
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
 
+## Вестник шторма
+
+* Вестник шторма в бою полагается на трату стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880), чтобы получить прок [Бури](https://www.wowhead.com/ru/spell=454009/).
+
+* Используйте [Бурю](https://www.wowhead.com/ru/spell=454009/) по приоритетам, желательно на **10+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880), иначе кастуйте [Молнию](https://www.wowhead.com/ru/spell=188196/) на **9+** стаках в бою против одной цели или [Цепную молнию](https://www.wowhead.com/ru/spell=188443) на **7+** стаках на АоЕ.
+
+* При активации [Перерождения](https://ru.wowhead.com/spell=114051), **каждое** ГКД нужно тратить на [Удар ветра](https://www.wowhead.com/ru/spell=115356), вне зависимости от других проков. Его кулдаун будет постоянно сбрасываться за счет талантов [Стихийный ритм](https://www.wowhead.com/ru/spell=1250364) и [Воззвание к Ториму](https://www.wowhead.com/ru/spell=384444).
+
+* В момент прока [Ветров рока](https://ru.wowhead.com/spell=384352) старайтесь тратить каждый ГКД либо на [Удар бури](https://www.wowhead.com/ru/spell=17364), либо на [Сокрушающую молнию](https://www.wowhead.com/ru/spell=187874). Имейте в виду, что в Midnight [Ветра рока](https://ru.wowhead.com/spell=384352) больше не имеют ГКД.
+
+* Когда у вас нет более приоритетных заклинаний, порядок филлеров в бою против одной цели выглядит следующим образом:
+  * [Удар бури](https://www.wowhead.com/ru/spell=17364).
+  * [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
+  * [Вскипание лавы](https://www.wowhead.com/ru/spell=60103/).
+  * [Гальваническое пламя](https://www.wowhead.com/ru/spell=470057).
+
+* Со взятым талантом [Раскол](https://www.wowhead.com/ru/spell=197214/), старайтесь применять его каждые **30** секунд для нанесения урона и активации баффа от таланта [Бурные стихии](https://www.wowhead.com/ru/spell=382042/).
 
 # Общая ветка талантов
 
@@ -465,22 +453,19 @@ custom-javascript-list:
 
 ## Приоритет характеристик
 
-Приоритет статов для **Вестника шторма**:
-
-1. **Ловкость**.
-1. **Скорость**.
-2. **Искусность**.
-3. **Критический удар**.
-4. **Универсальность**.
-
 Приоритет статов для **Тотемиста**:
 
 1. **Ловкость**.
 2. **Искусность**.
-1. **Скорость**.
-3. **Критический удар**.
+1. **Скорость** = **Критический удар**.
 4. **Универсальность**.
 
+Приоритет статов для **Вестника шторма**:
+
+1. **Ловкость**.
+1. **Скорость**.
+2. **Искусность** = **Критический удар**.
+4. **Универсальность**.
 
 
 <hr style="height:1px;background-color:#bbb">
@@ -499,8 +484,8 @@ custom-javascript-list:
 
 * Талант [Шквал](https://www.wowhead.com/ru/spell=382888) дополнительно повышает ценность Критического удара.
 * Базовое значение Критического удара, без учета характеристик, составляет **10%**.
-* На получение **1%** Критического удара нужно **700** единиц рейтинга Критического удара.
-* После набора **21000** рейтинга скорость роста этой характеристики снижается на **10%**. То есть для набора дополнительного **1%** Критического удара потребуется не **700** единиц рейтинга, а **770**. 
+* На получение **1%** Критического удара нужно **46** единиц рейтинга Критического удара.
+* После набора **1380** рейтинга скорость роста этой характеристики снижается на **10%**. То есть для набора дополнительного **1%** Критического удара потребуется не **46** единиц рейтинга, а **50.6**. 
 
 </details>
 <p></p>
@@ -517,8 +502,8 @@ custom-javascript-list:
 * Снижение ГКД от Скорости не относится к тотемам, так как у них он и так базово снижен до **1** секунды.
 * Снижает время между тиками [Огненного шока](https://ru.wowhead.com/spell=188389). Добавляет дополнительный тик в конце действия эффекта, ослабленный в зависимости от недостающего времени до «полного» тика.
 * Нет никаких капов и брейкпоинтов на Скорость. Каждая единица рейтинга оказывает соответствующее влияние на время произнесения заклинаний, ГКД и периодическое исцеление.
-* На получение **1%** Скорости нужно **660** единиц рейтинга Скорости.
-* После набора **19800** рейтинга скорость роста этой характеристики снижается на **10%**. То есть для набора дополнительного **1%** Скорости потребуется не **660** единиц рейтинга, а **726**.
+* На получение **1%** Скорости нужно **44** единиц рейтинга Скорости.
+* После набора **1320** рейтинга скорость роста этой характеристики снижается на **10%**. То есть для набора дополнительного **1%** Скорости потребуется не **44** единиц рейтинга, а **48**.
 
 </details>
 <p></p>
@@ -537,9 +522,8 @@ custom-javascript-list:
 * Талант [Гнев шторма](https://www.wowhead.com/ru/spell=392352/) увеличивает влияение Искусности на вероятность срабатывания [Вестника шторма](https://ru.wowhead.com/spell=319930/) и [Неистовства ветра](https://ru.wowhead.com/spell=33757) на **150%**.
 * Увеличение урона от Искусности работает как **белый список**, то есть только на те заклинания, которые указаны в описании на Wowhead.
 * Искусность не увеличивает урон от аксессуаров и иных способностей, не указанных в списке (см. [Искусность: великая сила стихий](https://www.wowhead.com/ru/spell=77223)).
-* На получение **1%** Искусности нужно **350** единиц рейтинга Искусности.
-* После набора **21000** рейтинга скорость роста этой характеристики снижается на **10%**. То есть для набора дополнительного **1%** Искусности потребуется не **350** единиц рейтинга, а **385**.
-
+* На получение **1%** Искусности нужно **23** единиц рейтинга Скорости.
+* После набора **1380** рейтинга скорость роста этой характеристики снижается на **10%**. То есть для набора дополнительного **1%** Искусности потребуется не **23** единиц рейтинга, а **25.3**.
 
 </details>
 <p></p>
@@ -552,8 +536,8 @@ custom-javascript-list:
 <details markdown=1><summary><i>Подробнее про Универсальность...</i></summary>
 <p></p>
 
-* На получение **1%** Универсальности нужно **780** единиц рейтинга Универсальности, что больше, чем у других характеристик.
-* После набора **23400** рейтинга скорость роста этой характеристики снижается на **10%**. То есть для набора дополнительного **1%** Универсальности потребуется не **780** единиц рейтинга, а **858**.
+* На получение **1%** Универсальности нужно **54** единиц рейтинга Универсальности, что больше, чем у других характеристик.
+* После набора **1620** рейтинга скорость роста этой характеристики снижается на **10%**. То есть для набора дополнительного **1%** Универсальности потребуется не **54** единиц рейтинга, а **59**.
 
 </details>
 <p></p>
@@ -564,60 +548,41 @@ custom-javascript-list:
 
 # Экипировка
 
-## Загадочные фишки картелей
-
-Лучшие предметы для покупки за [Загадочные фишки картелей](https://www.wowhead.com/ru/item=250741):
-1. [Ритуальный горн Араза](https://www.wowhead.com/ru/item=242402) – при игре с талантом [Перерождение](https://www.wowhead.com/ru/spell=114051).
-2. [Незыблемая призма Пустоты](https://www.wowhead.com/ru/item=242396) – при игре с талантом [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270).
-3. [Плетеные сапоги захватчика](https://www.wowhead.com/ru/item=243308/).
-5. [Астральный усик](https://www.wowhead.com/ru/item=242395/).
-6. [Импровизированный сефориевый стимулятор](https://www.wowhead.com/ru/item=232541) – альтернативный вариант пассивного тринкета, если не хочется отыгрывать сбор сфер.
-
-<p></p>
-
-## Повязки реши
-
-Волокно в новом артефактном плаще [Повязки реши](https://www.wowhead.com/ru/item=235499) стоит ставить на Скорость.
-
 
 ## Комплект классовых доспехов
 
-Сетовые комплекты в препатче пассивно увеличивают урон, но не дают никаких отдельных бонусов к способностям.
+Сетовый комлпет Шамана Стихии, [Оболочка изначального ядра](https://www.wowhead.com/ru/item-set=1988), дает следующие бонусы:
 
+* **2 части**: [Удар бури](https://www.wowhead.com/ru/spell=17364) и [Вскипание лавы](https://www.wowhead.com/ru/spell=60103) наносят на **15%** больше урона.
+* **4 части**: Усиление оружия от [Сокрушающей молнии](https://www.wowhead.com/beta/spell=187874/) дополнительно повышает искусность на **2%**.
 
-<p></p>
-
-Энх Шаман носит сетовые плечи, штаны, перчатки и шлем, а нагрудник стоит заменить на предмет с более подходящими характеристиками.
+Энх Шаман носит сетовый шлем, наплечники, нагрудник и перчатки, а штаны стоит заменить на предмет с более подходящими характеристиками.
 {: class="bordered"}
 
 ## Редкие предметы из рейда
 
-
-* [Плетеные сапоги захватчика](https://www.wowhead.com/ru/item=243308) – лучшие сапоги, усиливающие артефактный плащ [Повязки реши](https://www.wowhead.com/ru/item=235499).
-* [Перстень расколотой души](https://www.wowhead.com/ru/item=242405/) – имеет не лучшие для Энха характеристики, а его щит не настолько силен, чтобы жертвовать уроном. Потенциально может использоваться в определенном сочетании с другой бижутерией, но в целом это кольцо в начале сезона лучше оставить тому, кому оно принесет больше пользы.
-
-
+* [Око полуночи](https://www.wowhead.com/ru/item=249920) – данное кольцо дает на одно гнездо для самоцвета больше, чем другие кольца и является отличным вариантом для Элема. Проковый барьер является приятным бонусом, но не более того.
+* [Вечная цепь песни Пустоты](https://www.wowhead.com/ru/item=249368) – мы не наносим урон от темной магии, поэтому прок от этого кольца будет для нас бесполезен. 
+* [Амулет гимна пустоты](https://www.wowhead.com/ru/item=250247) – не является редким предметом, но имеет два гнезда для самоцвета и отличные характеристики для Элем Шамана.
 
 ## Аксессуары
 
 Полный рейтинг аксессуаров можно найти на [Bloodmallet](https://bloodmallet.com/chart/shaman/enhancement/trinkets/castingpatchwerk).
 
-
 Лучшие активные аксессуары:
-
-* [Ритуальный горн Араза](https://www.wowhead.com/ru/item=242402/%D1%80%D0%B8%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%B3%D0%BE%D1%80%D0%BD-%D0%B0%D1%80%D0%B0%D0%B7%D0%B0?bonus=7981:12052:5877:12361) – лучший прожимной аксессуар с огромным отрывом.
-* [Перстень приората](https://www.wowhead.com/ru/item=219308/%D0%BF%D0%B5%D1%80%D1%81%D1%82%D0%B5%D0%BD%D1%8C-%D0%BF%D1%80%D0%B8%D0%BE%D1%80%D0%B0%D1%82%D0%B0?bonus=657:12052:5877:10390:12361) – альтернатива из Мифик+.
-
-<p></p>
+* [Алгет'арская шкатулка с секретом](https://www.wowhead.com/ru/item=193701/) – лучший аксессуар и для Тотемиста, и для Вестника шторма. Время на активацию может вызывать неудобства, но эффективность это перекрывает.
+* [Перо Алозар](https://www.wowhead.com/ru/item=250144/) 
 
 
 Лучшие пассивные аксессуары:
-* [Астральный усик](https://www.wowhead.com/ru/item=242395/%D0%B0%D1%81%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%83%D1%81%D0%B8%D0%BA?bonus=1533:12361:12239&class=7&hero=56&ilvl=723&spec=262) – лучший пассивный тринкет. Дает не самый лучший для нас стат, но какое-то его количество всё равно стоит иметь на экипировке или в виде прока аксессуара.
-* [Импровизированный сефориевый стимулятор](https://www.wowhead.com/ru/item=232541/%D0%B8%D0%BC%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%D1%81%D0%B5%D1%84%D0%BE%D1%80%D0%B8%D0%B5%D0%B2%D1%8B%D0%B9-%D1%81%D1%82%D0%B8%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80?bonus=657:12052:5877:10390:12361) – прокает стабильно раз в минуту и отлично сочетается с нашими бурстами.
-* [Тайный прием Со'леи](https://www.wowhead.com/ru/item=190958/%D1%82%D0%B0%D0%B9%D0%BD%D1%8B%D0%B9-%D0%BF%D1%80%D0%B8%D0%B5%D0%BC-%D1%81%D0%BE%D0%BB%D0%B5%D0%B8?bonus=657:12052:5877:10390:12361) – отличный пассивный тринкет с возможностью выбора характеристик, который к тому же усиливает союзника. В Вестнике шторма мы предпочитаем использовать бафф на Скорость.
-* [Кокон выводка Ара-Кары](https://www.wowhead.com/ru/item=219314/%D0%BA%D0%BE%D0%BA%D0%BE%D0%BD-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D0%BA%D0%B0-%D0%B0%D1%80%D0%B0-%D0%BA%D0%B0%D1%80%D1%8B?bonus=657:12052:5877:10390:12361) – неплохой пассивный вариант.
-* [Усиливающий кристалл Ануб'иккаджа](https://www.wowhead.com/ru/item=219312/%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9-%D0%BA%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB-%D0%B0%D0%BD%D1%83%D0%B1%D0%B8%D0%BA%D0%BA%D0%B0%D0%B4%D0%B6%D0%B0?bonus=657:12052:5877:10390:12361) – неплохой пассивный тринкет с проком на случайную характеристику.
-* [Печать космической охоты](https://www.wowhead.com/ru/item=242397/%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C-%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9-%D0%BE%D1%85%D0%BE%D1%82%D1%8B?bonus=7981:12052:5877:12361) – хороший вариант для боя против одной цели, но не лучший на АоЕ.
+* [Взор ясновидца Альн](https://www.wowhead.com/ru/item=249343/) – пассивная Искусность, отличный прок и аптайм. Лучший пассивный тринкет для Энх Шамана.
+* [Темное перо](https://www.wowhead.com/ru/item=260235) / [Сияющее перо](https://www.wowhead.com/ru/item=249806/) – обе версии хорошо себя показывают, в зависимости от вашего распределения вторичных характеристик.
+* [Сосуд замученных душ](https://www.wowhead.com/ru/item=250258/) – альтернатива указанным выше вариантам. Можно нафармить в Мифик+.
+
+
+
+<p></p>
+
 
 
 ## Улучшение предметов за гребни
@@ -629,44 +594,53 @@ custom-javascript-list:
 
 
 ## Крафтовые предметы
+Крафт в начале сезона:
+1. [Колун странника](https://www.wowhead.com/ru/item=237850/%D0%BF%D1%80%D0%BE%D1%89%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0?bonus=12214:8960:12497:12066:13622:13667) или любое другое подобное оружие с украшением [Символ Новолуния "Охота"](https://www.wowhead.com/ru/item=245875). Это лучшее из возможных украшений Новолуния, вне зависимости от типа противника.
+2. [Кольцо почитателя лоа](https://www.wowhead.com/ru/item=251513) – неплохой прок на вторичные статы. С этим украшением следует использовать самоцветы [Безупречный хризолит искусности](https://www.wowhead.com/ru/item=240892) и [Безупречный гранат искусности](https://www.wowhead.com/ru/item=240908).
 
-1. Оружие, например [Заряженный разбиватель шлемов](https://www.wowhead.com/ru/item=222446/%D0%B7%D0%B0%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D1%80%D0%B0%D0%B7%D0%B1%D0%B8%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C-%D1%88%D0%BB%D0%B5%D0%BC%D0%BE%D0%B2?bonus=12040:1515:11300:8793), [Выкованная навеки булава](https://www.wowhead.com/ru/item=222442/) с украшением [Символ Новолуния "Вознесение"](https://www.wowhead.com/ru/item=226024/).
-2. [Гравированные символами тяжелые наручи](https://www.wowhead.com/ru/item=219342) с [Извивающейся окантовкой доспеха](https://www.wowhead.com/ru/item=219506/). Данное украшение усиливает [Символ Новолуния "Вознесение"](https://www.wowhead.com/ru/item=226024/) в два раза.
-3. Любой предмет низкого уровня.
+Крафт в конце сезонаю, после получения двух оружий эпохального уровня:
+1. [Корневые туфли хранителя Древа](https://www.wowhead.com/ru/item=244610/%D0%BA%D0%BE%D1%80%D0%BD%D0%B5%D0%B2%D1%8B%D0%B5-%D1%82%D1%83%D1%84%D0%BB%D0%B8-%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8F-%D0%B4%D1%80%D0%B5%D0%B2%D0%B0?bonus=12214:8960:12497:12066:13622:13667) + [Древесная пряжка хранителя Древа](https://www.wowhead.com/ru/item=244611/%D0%B4%D1%80%D0%B5%D0%B2%D0%B5%D1%81%D0%BD%D0%B0%D1%8F-%D0%BF%D1%80%D1%8F%D0%B6%D0%BA%D0%B0-%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8F-%D0%B4%D1%80%D0%B5%D0%B2%D0%B0?bonus=12214:8960:12497:12066:13622:13667).
+2. Два предмета с [Подкладкой из тайной ткани](https://www.wowhead.com/ru/item=240167/).
+3. Любые предметы низкого уровня.
 
 
 
 # Расходуемые предметы
+
+
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
 
 **Зачарования** и **самоцветы**:
-* **Оружие**: [Искусство Каменных](https://www.wowhead.com/ru/item=223765) + [Неистовство странника бурь](https://www.wowhead.com/ru/item=223762/). [Симьтесь](https://stormkeeper.ru/info/sim.html) персонально для точных данных.
-* **Бижутерия**: [Великолепная ювелирная оправа](https://www.wowhead.com/ru/item=213777/) – добавляет до **2** гнезд для самоцветов в **амулет** или **кольцо**.
-* **Нагрудный доспех**: [Кристаллическое сияние](https://www.wowhead.com/ru/item=223692/)
-* **Поножи**: [Усиленные штормом накладки для доспехов](https://www.wowhead.com/ru/item=219911)
-* **Кольца**: [Сияющая скорость](https://www.wowhead.com/ru/item=223674/)
-* **Плащ**: [Песнь крылатой грации](https://www.wowhead.com/ru/item=223731/)
-* **Наручи**: [Песнь брони и избежания](https://www.wowhead.com/ru/item=223713/)
-* **Ботинки**: [Ход разведчика](https://www.wowhead.com/ru/item=223653/) или [Ход защитника](https://www.wowhead.com/ru/item=223656/).
-* **Эпический самоцвет**: [Профанит апогея](https://www.wowhead.com/ru/item=213743/)
-* **Остальные самоцветы**: [Изумруд искусности](https://www.wowhead.com/ru/item=213482/). [Симьтесь](https://stormkeeper.ru/info/sim.html) персонально для точных данных.
+* **Оружие**: [Чародейская искусность](https://www.wowhead.com/ru/item=244031) + [Ярость берсерка](https://www.wowhead.com/ru/item=243973). 
+* **Шлем**: [Усиленная руна избежания](https://www.wowhead.com/ru/item=244007).
+* **Наплечники**: [Милость Амирдрассила](https://www.wowhead.com/ru/item=243991)
+* **Нагрудник**: [Метка души мира](https://www.wowhead.com/ru/item=243977)
+* **Поножи**: [Накладки для доспехов лесного охотника](https://www.wowhead.com/ru/item=244641)
+* **Ботинки**: [Рысья стремительность](https://www.wowhead.com/ru/item=243953)
+* **Кольца**: [Искусность Зул'джина](https://www.wowhead.com/ru/item=243959)
+* **Эпический самоцвет**: [Непостижимый алмаз Вечной Песни](https://www.wowhead.com/ru/item=240983)
+* **Остальные самоцветы**:
+  * [Безупречный аметист скорости](https://www.wowhead.com/ru/item=240900)
+  * [Безупречный хризолит искусности](https://www.wowhead.com/ru/item=240892)
+
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
 Расходуемые предметы:
-* **Настой**: [Настой алхимического хаоса](https://www.wowhead.com/ru/item=212283) или [Настой охлажденной стремительности](https://www.wowhead.com/ru/item=212274)
-* **Зелье**: [Охлажденное зелье](https://www.wowhead.com/ru/item=212265/)
+* **Настой**: [Настой магистров](https://www.wowhead.com/ru/item=241322)
+* **Зелье**: [Потенциал Света](https://www.wowhead.com/ru/item=241308/).
 * **Чары на оружие**: [Оружие неистовства ветра](https://www.wowhead.com/ru/spell=33757/) и [Оружие языка пламени](https://www.wowhead.com/ru/spell=318038)
-* **Руна**: [Кристаллизованная руна усиления](https://www.wowhead.com/ru/item=224572)
-* **Еда**: [Пир полуночного маскарада](https://www.wowhead.com/ru/item=220425), либо [Суши-сюрприз](https://www.wowhead.com/ru/item=222720) / [Провизия чужака](https://www.wowhead.com/ru/item=222731) / [Блюдо шута](https://www.wowhead.com/ru/item=222730) / [Прощание императрицы](https://www.wowhead.com/ru/item=222729/) / [Благодать Беледар](https://www.wowhead.com/ru/item=222728)
-* **Зелье лечения**: [Бодрящее лечебное зелье](https://www.wowhead.com/ru/item=244839)
+* **Руна**: [Меченная Бездной руна усиления](https://www.wowhead.com/ru/item=259085)
+* **Еда**: [Празднество Харандара](https://www.wowhead.com/ru/item=255846), либо [Невообразимое королевское жаркое](https://www.wowhead.com/ru/item=255847/).
+* **Зелье лечения**: [Луносветское лечебное зелье](https://www.wowhead.com/ru/item=241304)
 
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
+
 
 
 # Интерфейс
