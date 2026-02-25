@@ -571,6 +571,11 @@ image: /assets/img/lv100.png
 
 <p></p>
 
+{% include button.html name="Гайд от Медифк на старт дополнения" link="https://docs.google.com/spreadsheets/d/1fIsChdAbaqHrokmQLatdLOeFyaTsTqgUAWNrizVv0hE/edit?gid=0#gid=0" %}  
+
+
+<p></p>
+
 {% include button.html name="Гайд от Larias по экономике гребней и старту сезона" link="https://docs.google.com/document/d/e/2PACX-1vTGkZ2Cjr0jlv90XqW9vy9VXsVucd-yMCgHdyCvX_kQfOrexNDAC7Lf3LifuhqxrcWqJ0W3zIhvK3ii/pub" %}  
 
 <p></p>
@@ -581,7 +586,9 @@ image: /assets/img/lv100.png
 <p></p>
 
 
+{% include button.html name="Англоязычный гайд на прокачку" link="https://docs.google.com/spreadsheets/d/1StJ9AoWxid3E8qp5tbvCaz_Jqzf9BF7sWrl74jICwHI/edit?gid=0#gid=0" %}  
 
+<p></p>
 
 
 
