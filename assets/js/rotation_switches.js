@@ -152,13 +152,18 @@ $('button#build_enh_storm_aoe').on('click', function() {
     return false;
 });
 
-$('button#build_resto_farseer').on('click', function() {
-    on_build_button_click(this, ["ul", "asc", "dre"]);
+$('button#build_resto_farseer_raid').on('click', function() {
+    on_build_button_click(this, ["asc", "dre", "rain"]);
+    return false;
+});
+
+$('button#build_resto_farseer_mplus').on('click', function() {
+    on_build_button_click(this, ["asc", "dre"]);
     return false;
 });
 
 $('button#build_resto_totem').on('click', function() {
-    on_build_button_click(this, ["totem", "ul", "rain", "dp"]);
+    on_build_button_click(this, ["totem", "rain", "dp"]);
     return false;
 });
 
