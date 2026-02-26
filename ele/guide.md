@@ -265,7 +265,7 @@ custom-javascript-list:
 6. {:.vb-apl .no-pf-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) для поддержания на целях [Огненного шока](https://ru.wowhead.com/spell=188389).
 7. [Цепная молния](https://www.wowhead.com/ru/spell=188443), если другие способности недоступны.
 8. {:.no-tempest-apl}[Благосклонность предков](https://ru.wowhead.com/spell=79206) / [Ледяной шок](https://ru.wowhead.com/spell=196840) во время передвижения.
-8. {:.tempest-apl}Во время передвижения можно использовать одну из следующих способностей:
+8. {:.tempest-apl}Во время передвижения можно использовать следующие способности:
   * [Благосклонность предков](https://ru.wowhead.com/spell=79206)
   * [Природная стремительность](https://www.wowhead.com/ru/spell=378081)
   * [Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/)
