@@ -156,7 +156,7 @@ custom-javascript-list:
 
 <div id="st" markdown="1">
 
-Обычный приоритет:
+Обычный приоритет
 1. {:.asc-apl}[Перерождение](https://www.wowhead.com/ru/spell=114052/) и [Тотем духовной связи](https://www.wowhead.com/ru/spell=98008/) следует использовать под самые тяжелые моменты боя.
 2. {:.no-asc-apl}[Тотем целительного прилива](https://www.wowhead.com/ru/spell=108280/) и [Тотем духовной связи](https://www.wowhead.com/ru/spell=98008/) следует использовать под самые тяжелые моменты боя.
 1. [Тотем потока бури](https://www.wowhead.com/ru/spell=1267068) по проку.
@@ -177,7 +177,7 @@ custom-javascript-list:
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-Приоритет во время активного[Перерождения](https://www.wowhead.com/ru/spell=114052/):
+Подготовка к активации [Перерождения](https://www.wowhead.com/ru/spell=114052/) и его отыгрыш:
 1. {:.asc-apl}[Быстрина](https://ru.wowhead.com/spell=61295).
 1. {:.asc-apl}[Быстрина](https://ru.wowhead.com/spell=61295).
 1. {:.asc-apl}[Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685/).
