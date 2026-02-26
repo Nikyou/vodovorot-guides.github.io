@@ -458,7 +458,7 @@ custom-javascript-list:
 **Зачарования** и **самоцветы**:
 * **Оружие**: [Проницательность рен'дорай](https://www.wowhead.com/ru/item=244029)
 * **Шлем**: [Усиленный сглаз самоисцеления](https://www.wowhead.com/ru/item=243951)
-* **Наплечники**: [Милость Амирдрассила](https://www.wowhead.com/ru/item=243991)
+* **Наплечники**: [Луносветское исцеление ](https://www.wowhead.com/ru/item=244021)
 * **Нагрудник**: [Метка магистра](https://www.wowhead.com/ru/item=244003)
 * **Поножи**: [Чародейская тайнотканная нить](https://www.wowhead.com/ru/item=240155)
 * **Ботинки**: [Корни Шаладрассила](https://www.wowhead.com/ru/item=243983)
@@ -477,7 +477,7 @@ custom-javascript-list:
 
 Расходуемые предметы:
 * **Настой**: [Настой расколотого солнца](https://www.wowhead.com/ru/item=241326) / [Настой тлассийского сопротивления](https://www.wowhead.com/ru/item=241320)
-* **Зелье**: [Светотворное зелье маны](https://www.wowhead.com/ru/item=241300) / [Зелье безрассудства](https://www.wowhead.com/ru/item=241288/), если у вас мало Искусности. Иначе [Потенциал Света](https://www.wowhead.com/ru/item=241308/). [Симьтесь](https://stormkeeper.ru/info/sim.html) персонально для точных данных.
+* **Зелье**: [Светотворное зелье маны](https://www.wowhead.com/ru/item=241300) / [Зелье безрассудства](https://www.wowhead.com/ru/item=241288/).
 * **Чары на оружие**: [Оружие жизни земли](https://www.wowhead.com/ru/spell=382021)
 * **Руна**: [Меченная Бездной руна усиления](https://www.wowhead.com/ru/item=259085)
 * **Еда**: [Празднество Харандара](https://www.wowhead.com/ru/item=255846), либо [Невообразимое королевское жаркое](https://www.wowhead.com/ru/item=255847/).
